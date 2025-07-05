@@ -1,4 +1,4 @@
 aiogram==2.25.1
-python-dotenv
-python-docx
-PyMuPDF
+python-dotenv==1.0.1
+python-docx==0.8.11
+PyMuPDF==1.22.5
