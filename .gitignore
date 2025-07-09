@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+.venv1/
+env/
+venv/
+
+# Env files
+.env
+*.env
+
+# IDE
+.idea/
+
+
+# Railway va cache
+.cache/
+*.log
